@@ -1,0 +1,15 @@
+feature_name,category
+household_income,Economic
+employment_rate,Economic
+economic_security,Economic
+income_equality,Economic
+healthcare_access,Health
+health_outcomes,Health
+provider_access,Health
+graduation_rate,Education
+higher_education,Education
+educational_retention,Education
+housing_affordability,Community
+community_safety,Community
+social_cohesion,Community
+child_welfare,Community
